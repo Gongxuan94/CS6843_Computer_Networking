@@ -66,6 +66,7 @@ serverSocket.close()
 |----|-----|
 |Documentation|[Web_Server.pdf](/documentation/Web_Server.pdf)|
 
+
 ## Socket Progrmming Assignment 3: SMTP
 
 By the end of this lab, you will have acquired a better understanding of SMTP protocol. You will also gain experience in implementing a standard protocol using Python.
@@ -147,6 +148,7 @@ if recv1[:3] != '250':
 |Code|[mail.py](/mail.py)|
 |----|-----|
 |Documentation|[Mail.pdf](/documentation/Mail.pdf)|
+
 
 ## Socket Programming Assignment 5: ICMP Pinger
 
