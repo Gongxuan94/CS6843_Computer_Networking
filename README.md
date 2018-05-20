@@ -90,8 +90,8 @@ In your submission, you are to provide the complete code for your SMTP mail clie
 
 ```python
 from socket import *
-msg = ”\r\n I love computer networks!”
-endmsg = ”\r\n.\r\n”
+msg = "\r\n I love computer networks!"
+endmsg = "\r\n.\r\n"
 # Choose a mail server (e.g. Google mail server) and call it mailserver 
 mailserver = #Fill in start #Fill in end
 # Create socket called clientSocket and establish a TCP connection with mailserver 
